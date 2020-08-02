@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "repos": [{
+    "name": "spring-rs",
+    "url": "https://github.com/service-rs/spring-config.git",
+    "branches": ["master"]
+  }]
+}

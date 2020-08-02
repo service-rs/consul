@@ -1,0 +1,1 @@
+docker run -v $PWD:/etc/git2consul cimpress/git2consul --endpoint host.docker.internal --config-file /etc/git2consul/config.json
